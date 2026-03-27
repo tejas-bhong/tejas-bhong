@@ -2,7 +2,7 @@
 <h3 align="center">Android Engineer | Kotlin • Jetpack • Firebase</h3>
 
 <p align="center">
-  <a href="https://dev-tejasb.web.app/" target="_blank">
+  <a href="https://tejas-bhong.web.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/tejas-bhong" target="_blank">
